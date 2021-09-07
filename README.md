@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CanOZEN
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning Html, Css, Bootstrap, C# and Sql
+- 💞️ I’m looking to collaborate on software development
+- 📫 How to reach me canozen3@gmail.com
