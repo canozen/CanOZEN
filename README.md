@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CanOZEN
+- 👋 Hi, I’m @canozen
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning Html, Css and JavaScript
 - 💞️ I’m looking to collaborate on software development
